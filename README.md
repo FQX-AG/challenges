@@ -13,4 +13,4 @@ During the interview or in an email you should have received contact information
 
 **We are looking for readable, scalable and maintainable code, one would call production-ready, and we will assume the deliverable is something you would also consider production-ready. As a frontend developer, we also expect you to deliver "tasty" UX and UI.**
 
-**All the challenges you have a one-week deadline to completion. We estimate the total hours to completion to be around four hours.**
+**All the challenges have a one-week deadline to completion. We estimate the total work time to take around four hours.**
